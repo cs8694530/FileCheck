@@ -1,5 +1,5 @@
-# Micon_FileCheck
-本系統的功能主要為檢查csv檔的差異，由於是為了美光FMCS在安裝電腦寫的，所以會有特定格式的限制。  
+# FileCheck
+本系統的功能主要為檢查csv檔的差異，由於是為了安裝AVEVA System Platform時檢查系統是否正常安裝寫的，所以會有特定格式的限制。  
 * TestData資料夾內有測試資料可以使用。
 
 測試資料
