@@ -7,7 +7,7 @@
 
 先選擇測試資料 
 * 程式可以在\FileCheck\bin\Debug\FileCheck.exe開啟
-* 「自動」的欄位是防止資料的欄位過多，導致程式卡住的備案
+* 「自動」的欄位是防止資料的欄位過多、異常，導致程式卡住的備案
 
 ![image](https://github.com/cs8694530/YCS_Micon_FileCheck/assets/19258631/5e039961-edee-42d0-80a9-60299dc0ccf4)
 
